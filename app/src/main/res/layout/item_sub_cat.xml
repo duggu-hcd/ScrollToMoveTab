@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tvSubCatTextISF"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:textSize="13sp"
+    android:textStyle="bold"
+    android:layout_marginStart="8dp"
+    android:background="@drawable/unslected_button"
+    android:paddingEnd="12dp"
+    android:paddingStart="12dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:textColor="@color/white"
+    android:layout_height="wrap_content"
+    tools:ignore="MissingClass" />
